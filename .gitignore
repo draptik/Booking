@@ -12,3 +12,5 @@ TestResults/
 BookingWebUI/Queue/*
 BookingWebUI/SSoT/*
 BookingWebUI/ViewStore/*
+/Backup
+/UpgradeLog.htm
